@@ -11,3 +11,9 @@
 ##### 6. 출차 정보 등록
 ##### 7. 출차 정보 수정
 ##### 8. 주변 차량들의 출차 정보 조회
+
+#### 프로젝트 설명
+##### https://velog.io/@ddeo99?tag=Capstone-Design
+
+#### 앱 데모 영상
+##### https://www.youtube.com/watch?v=vMaUljQ0pPs&feature=youtu.be
